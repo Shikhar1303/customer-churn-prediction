@@ -1,3 +1,13 @@
+## 🚀 Live Demo
+
+👉 **[Try the Customer Churn Prediction App](https://customer-churn-prediction-qhn969e2et4g42bgmadjsf.streamlit.app/)**
+
+The application allows users to:
+- Predict customer churn probability
+- Analyze customer churn patterns
+- Explore churn by contract and payment method
+- View customer-level information
+- 
 # Customer Churn Prediction
 
 ## 📌 Project Overview
